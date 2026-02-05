@@ -1,0 +1,13 @@
+ollama
+chromadb
+langchain
+langchain-community
+langchain-chroma
+langchain-huggingface
+pypdf
+sentence-transformers
+pandas
+openpyxl
+langchain-experimental
+streamlit
+tabulate
